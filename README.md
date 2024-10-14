@@ -37,6 +37,7 @@ dependencies {
 }
 ### Screenshots
 Voici quelques captures d'écran de l'application :
+
 ![Capture d'écran 2024-10-12 133027](https://github.com/user-attachments/assets/2337403d-efcb-4791-9dc5-b864554fb852)
 ![Capture d'écran 2024-10-12 133008](https://github.com/user-attachments/assets/d620313c-a5a1-40fe-81d9-8a3bf613b221)
 ![Capture d'écran 2024-10-12 133157](https://github.com/user-attachments/assets/0f1d7538-f2eb-4bbd-a27c-9b31f37e2e84)
